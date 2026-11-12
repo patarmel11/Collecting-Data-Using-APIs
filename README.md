@@ -24,5 +24,3 @@
 ## Tools
 Python · Flask · requests · pandas · openpyxl · IBM watsonx
 
-## Dataset
-Modified subset of [Jobs on Naukri.com](https://www.kaggle.com/promptcloud/jobs-on-naukricom) (Public Domain), provided by IBM Skills Network.
